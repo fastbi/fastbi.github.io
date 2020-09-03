@@ -25,7 +25,7 @@ Dentre os produtos esperados podemos destacar a obtenção de uma descrição ge
 
 O planejamento das atividades possui ativa participação dos Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
-Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações; b) Pesquisar e mapear fontes de dados auxiliares; e c) Detalhar e Priorizar as BIUS (Business Intelligence User Story) visando delinear o backlog do projeto.
+Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações; b) Pesquisar e mapear fontes de dados auxiliares; e c) Definir e Priorizar as BIUS (Business Intelligence User Story) visando delinear o backlog do projeto.
 
 Dentre os produtos esperados podemos frisar a criação tanto do backlog, quanto do roadmap do projeto com marcos de entrega bem definidos. É importante destacar que esta etapa é dinâmica e adaptável, sendo fortemente auxiliada pela processo de gerência de projeto que permeia todas as atividades de desenvolvimento do sistema de BI.
 
@@ -33,7 +33,7 @@ Dentre os produtos esperados podemos frisar a criação tanto do backlog, quanto
 
 A fase de requisitos visa verificar as necessidades pertinentes ao sistema de BI que será desenvolvido, focando na maximização dos resultados desejados.
 
-Dentre as tarefas a serem realizadas podemos destacar as seguintes: a) verificação das necessidades a partir do ponto central e relacionadas ao projeto que serão desenvolvidas no sprint da iteração vigente.  b) Definir as perguntas a serem respondidas com base nas necessidades; c) realizar análise básica dos dados envolvidos; d) Selecionar, validar e armazenar os dados desejados para o sprint vigente 
+Dentre as tarefas a serem realizadas podemos destacar as seguintes: a) verificação e detalhamento das necessidades a partir do ponto central e relacionadas ao projeto que serão desenvolvidas no sprint da iteração vigente.  b) Definir as perguntas a serem respondidas com base nas necessidades vigentes; c) realizar análise básica dos dados envolvidos; d) Selecionar, validar e armazenar os dados desejados para o sprint vigente 
 
 Dentre os produtos esperados podemos destacar: o conhecimento e detalhamento das informações/dados, uma definição clara sobre quais perguntas se deseja responder com base nas informações existentes, além da definição de tarefas e priorização das atividades correlatas no sprint.
 
