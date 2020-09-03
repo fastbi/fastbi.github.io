@@ -25,9 +25,9 @@ Dentre os produtos esperados podemos destacar a obtenção de uma descrição ge
 
 O planejamento das atividades possui ativa participação dos Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
-Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações; b) Pesquisar e mapear fontes de dados auxiliares; e c) Detalhar e Priorizar as BIUS (Business Intelligence User Story)
+Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações; b) Pesquisar e mapear fontes de dados auxiliares; e c) Detalhar e Priorizar as BIUS (Business Intelligence User Story) visando delinear o backlog do projeto.
 
-Dentre os produtos esperados podemos frisar a criação do roadmap com marcos de entrega bem definidos. É importante destacar que esta etapa é fortemente auxiliada pela processo de gerência de projeto que permeia todas as atividades de desenvolvimento do sistema de BI.
+Dentre os produtos esperados podemos frisar a criação tanto do backlog, quanto do roadmap do projeto com marcos de entrega bem definidos. É importante destacar que esta etapa é dinâmica e adaptável, sendo fortemente auxiliada pela processo de gerência de projeto que permeia todas as atividades de desenvolvimento do sistema de BI.
 
 #### Fase 2 - Requisitos<br><br>
 
