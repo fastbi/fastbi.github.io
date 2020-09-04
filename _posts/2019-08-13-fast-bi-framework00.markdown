@@ -3,7 +3,7 @@ layout: post
 title: Fast Bi Framework
 date: 2019-07-12 13:32:20 +0300
 description: Metodologia de desenvolvimento de sistemas de Business Intelligence Fast Bi Framework. # Add post description (optional)
-img: fbifs.png # Add image post (optional)
+img: nw_fbifs.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Framework, BI]
 ---
