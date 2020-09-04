@@ -7,7 +7,7 @@ img: fast_bi_frameworkv2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-Metodologia concebida na prática por meio de atividades e abordagens desenvolvidas em projetos reais voltados para a construção de sistemas de Business Intelligence. A proposta visa o desenvolvimento de sistemas de Business Intelligence de forma rápida utilizando como base metodologias ágeis e tendo como pilar a obtenção de entrega de valor para o cliente de forma rápida e objetiva. A abordagem é utilizada principalmente para projetos onde o scopo não está perfeitamente definido comumente possuindo limitações de tempo e equipe ou visando maximizar os resultados. Esta metodologia tem se destacado em projetos inovadores e/ou que estejam no escopo de desenvolvimento primeiros projetos de BI dentro de empresas e instituições dinâmicas.
+Metodologia concebida na prática por meio de atividades e abordagens desenvolvidas em projetos reais voltados para a construção de sistemas de Business Intelligence. A proposta visa o desenvolvimento de sistemas de Business Intelligence de forma rápida utilizando como base metodologias ágeis e tendo como pilar a obtenção de entrega de valor para o cliente de forma rápida e objetiva. A abordagem é utilizada principalmente para projetos onde o scopo não está perfeitamente definido comumente possuindo limitações de tempo e equipe ou visando maximizar os resultados. Esta metodologia tem se destacado em projetos inovadores e/ou que estejam no escopo de desenvolvimento de primeiros projetos de BI dentro de empresas e instituições dinâmicas.
 
 ## Fases, tarefas e produtos esperados
 
@@ -16,22 +16,23 @@ Metodologia concebida na prática por meio de atividades e abordagens desenvolvi
 
 A fase de imersão possui participação ativa de vários atores envolvidos com o processo, sistema e demandas de Business Intelligence. Este atores comumente incluem Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
-Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) acesso a base de dados e entendimento do problema. b) proposição de soluções e c) prototipação visual.
+Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) acesso a base de dados e entendimento do problema; b) proposição de soluções; c) prototipação visual; e d) Definir e Priorizar as BIUS (Business Intelligence User Story) visando delinear o backlog do projeto.
 
-Dentre os produtos esperados podemos destacar a obtenção de uma descrição geral do projeto, definição clara dos problemas existentes e dos objetivos almejados, além de um modelo de arquitetura/infraestrutura de trabalho que suporte o que é desejado. No tocante o acesso aos dados é de fundamental importância que ele seja obtido antes da definição das atividades e datas a serem indicadas no cronograma de projeto.
+Dentre os produtos esperados podemos destacar tanto a criação do backlog, quanto do roadmap do projeto com marcos de entrega bem definidos. a obtenção de uma descrição geral do projeto, definição clara dos problemas existentes e dos objetivos almejados, além de um modelo de arquitetura/infraestrutura de trabalho que suporte o que é desejado. No tocante o acesso aos dados é de fundamental importância que ele seja obtido antes da definição das atividades e datas a serem indicadas no cronograma de projeto.
 
 
 #### Marco de Planejamento - interfase de iteração <br><br>
 
 O planejamento das atividades possui ativa participação dos Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
-Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações; b) Pesquisar e mapear fontes de dados auxiliares; e c) Definir e Priorizar as BIUS (Business Intelligence User Story) visando delinear o backlog do projeto.
+Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de necessidades e informações relevantes para a sprint; b) Pesquisar e mapear fontes de dados auxiliares; e c) Registro/Decomposição detalhada das tarefas do sprint.
 
-Dentre os produtos esperados podemos frisar a criação tanto do backlog, quanto do roadmap do projeto com marcos de entrega bem definidos. É importante destacar que esta etapa é dinâmica e adaptável, sendo fortemente auxiliada pela processo de gerência de projeto que permeia todas as atividades de desenvolvimento do sistema de BI.
+
+Dentre os produtos esperados podemos frisar a decomposição detalhadas das tarefas do sprint.  É importante destacar que esta etapa é dinâmica e adaptável, sendo fortemente auxiliada pela processo de gerência de projeto que permeia todas as atividades de desenvolvimento do sistema de BI.
 
 #### Fase 2 - Requisitos<br><br>
 
-A fase de requisitos visa verificar as necessidades pertinentes ao sistema de BI que será desenvolvido, focando na maximização dos resultados desejados.
+A fase de requisitos visa verificar as necessidades pertinentes ao sistema/módulo de BI que será desenvolvido, focando na maximização dos resultados desejados.
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes: a) verificação e detalhamento das necessidades a partir do ponto central e relacionadas ao projeto que serão desenvolvidas no sprint da iteração vigente.  b) Definir as perguntas a serem respondidas com base nas necessidades vigentes; c) realizar análise básica dos dados envolvidos; d) Selecionar, validar e armazenar os dados desejados para o sprint vigente 
 
