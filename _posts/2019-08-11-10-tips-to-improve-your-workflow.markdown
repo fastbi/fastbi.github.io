@@ -8,6 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
+>O objetivo dos canvas no Framework FastBi são de auxiliar no sentido de obtenção das principais informações relativas ao desenvolvimento do sistema de Business Intelligence.
 
 Os canvas utilizados tem o objetivo de auxiliar algumas das etapas de desenvolvimento do sistema de Business Intelligence. Entre elas podemos destacar as seguintes:
 
@@ -24,13 +25,26 @@ Visa auxiliar na identificação dos elementos relacionados a modelagem dimensio
 ![FastBi - Modelling Canvas]({{site.baseurl}}/assets/img/fast_modelling_canvas.png)
 
 
->O objetivo dos canvas no Framework FastBi são de auxiliar no sentido de obtenção das principais informações relativas ao desenvolvimento do sistema de Business Intelligence.
 
+
+#### Fast ETL Mapping Canvas: 
 
 ![FastBi - ETL Canvas]({{site.baseurl}}/assets/img/fast_etl_canvas.png)
 
+Fast ETL Mapping: Visa auxiliar na identificação e mapeamento de atributos que serão obtidos de uma determinada fonte para um determinado destino nos processos de extração, transformação e carga.
+
+
+
+
+#### Fast PPD Canvas: 
+Fast PPD Canvas: Visa auxiliar a identificação de tipos de atributos, problemas encontrados nos dados e aplicação de pré processamento.
+
 ![FastBi - PPD Canvas]({{site.baseurl}}/assets/img/fast_ppd_canvas.png)
 
+#### Fast EDA Canvas:
+Fast EDA Canvas: Visa auxiliar no processo da análise exploratória de dados, incluindo distribuições de frequência, tecnicas de visualização e medidas de tendência.
 ![FastBi - EDA Canvas]({{site.baseurl}}/assets/img/fast_eda_canvas.png)
+
+
 
 
