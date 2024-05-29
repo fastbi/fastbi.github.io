@@ -20,12 +20,7 @@ Visa auxiliar na identificação e descrição dos objetivos relacionados ao sis
 #### Fast Modelling Canvas: 
 Visa auxiliar na identificação dos elementos relacionados a modelagem dimensional dos dados e desenvolvimento de data marts ou data warehouses, por meio da definição do processo de negócio que esta sendo analisado, o grao pertinente ao processo, as tabelas dimensão e suas estruturas comumente hierárquicas e descritivas, bem como a tabela fato e seus atributos/metricas.
 
-
-
 ![FastBi - Modelling Canvas]({{site.baseurl}}/assets/img/fast_modelling_canvas.png)
-
-
-
 
 #### Fast ETL Mapping Canvas: 
 
@@ -33,16 +28,16 @@ Visa auxiliar na identificação dos elementos relacionados a modelagem dimensio
 
 Fast ETL Mapping: Visa auxiliar na identificação e mapeamento de atributos que serão obtidos de uma determinada fonte para um determinado destino nos processos de extração, transformação e carga.
 
-
-
-
 #### Fast PPD Canvas: 
+
 Fast PPD Canvas: Visa auxiliar a identificação de tipos de atributos, problemas encontrados nos dados e aplicação de pré processamento.
 
 ![FastBi - PPD Canvas]({{site.baseurl}}/assets/img/fast_ppd_canvas.png)
 
 #### Fast EDA Canvas:
+
 Fast EDA Canvas: Visa auxiliar no processo da análise exploratória de dados, incluindo distribuições de frequência, tecnicas de visualização e medidas de tendência.
+
 ![FastBi - EDA Canvas]({{site.baseurl}}/assets/img/fast_eda_canvas.png)
 
 
