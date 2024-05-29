@@ -24,9 +24,10 @@ Visa auxiliar na identificação dos elementos relacionados a modelagem dimensio
 
 #### Fast ETL Mapping Canvas: 
 
+Fast ETL Mapping: Visa auxiliar na identificação e mapeamento de atributos que serão obtidos de uma determinada fonte para um determinado destino nos processos de extração, transformação e carga.
+
 ![FastBi - ETL Canvas]({{site.baseurl}}/assets/img/fast_etl_canvas.png)
 
-Fast ETL Mapping: Visa auxiliar na identificação e mapeamento de atributos que serão obtidos de uma determinada fonte para um determinado destino nos processos de extração, transformação e carga.
 
 #### Fast PPD Canvas: 
 
