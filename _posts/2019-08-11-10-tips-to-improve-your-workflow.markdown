@@ -8,9 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
->O objetivo dos canvas no Framework FastBi são de auxiliar no sentido de obtenção das principais informações relativas ao desenvolvimento do sistema de Business Intelligence.
-
-Os canvas utilizados tem o objetivo de auxiliar algumas das etapas de desenvolvimento do sistema de Business Intelligence. Entre elas podemos destacar as seguintes:
+> Os canvas utilizados tem o objetivo de auxiliar algumas das etapas de desenvolvimento do sistema de Business Intelligence. Entre elas podemos destacar as seguintes:
 
 #### Fast Immersion Canvas: 
 Visa auxiliar na identificação e descrição dos objetivos relacionados ao sistema de BI proposto, obtenção básica informações relativas a base de dados envolvida, esboçar as possíveis ferramentas que serão utilizadas, construção de um  dicionário básico de dados contendo os princiapis atributos existentes na base de dados em estudo, agrupar os dados em conjuntos lógicos de informação para o sistema proposto, definir a hierarquia existente entre os dados e o menor nível de informação existente para cada conjunto de atributos a serem agrupados.
@@ -42,5 +40,5 @@ Fast EDA Canvas: Visa auxiliar no processo da análise exploratória de dados, i
 ![FastBi - EDA Canvas]({{site.baseurl}}/assets/img/fast_eda_canvas.png)
 
 
-
+>Lembre que os  canvas no Framework FastBi ppossibilitam auxilio no sentido de obtenção das principais informações relativas ao desenvolvimento do sistema de Business Intelligence. Mas devem ser complementados com as necessidades específicas de cada projeto.
 
