@@ -26,3 +26,11 @@ Visa auxiliar na identificação dos elementos relacionados a modelagem dimensio
 
 >O objetivo dos canvas no Framework FastBi são de auxiliar no sentido de obtenção das principais informações relativas ao desenvolvimento do sistema de Business Intelligence.
 
+
+![FastBi - ETL Canvas]({{site.baseurl}}/assets/img/fast_etl_canvas.png)
+
+![FastBi - PPD Canvas]({{site.baseurl}}/assets/img/fast_ppd_canvas.png)
+
+![FastBi - EDA Canvas]({{site.baseurl}}/assets/img/fast_eda_canvas.png)
+
+
